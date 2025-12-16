@@ -32,15 +32,19 @@
 #### 連接步驟 (Step-by-Step)：
 
 * **步驟一：** 開啟 Remote Desktop Connection，點擊左下角 **Show Options**。
+
 ![Step 1 Screenshot](./images/more-options.png)
 * **步驟二：** 輸入電腦 IP 以及 Username，點擊 **Allow me to save credentials**。
+
 ![Step 2 Screenshot](./images/ip-name-enter.png)
 * **步驟三：** 跳出輸入密碼畫面時，兩臺電腦的密碼皆為 **清大統編**。可以勾選 **Remember me** 就不用重複輸入，然後點擊 **OK**。
+
 ![Step 2 Screenshot](./images/enter-credentials.png)
 * **步驟四：** 會跳出 Warning 問你是否真的要遠端遙控此電腦，勾選左下角的 **"Don't ask me again for connections to this computer"** 後按下 **Yes/OK** 即可連線。
+
 ![Step 2 Screenshot](./images/despite-certificate-error.png)
 
-#### 電腦資料 (PC Details)：
+#### 電腦資料：
 
 | 位置 | 一樓辦公桌上的電腦 | 模擬器電腦（暫置二樓） |
 | :--- | :--- | :--- |
