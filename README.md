@@ -41,21 +41,21 @@
 * **步驟二：** 輸入電腦 IP 以及 Username，點擊 **Allow me to save credentials**。
 <br>
 <div align="center">
-  <img src="./images/ip-name-enter.png" alt="Step 2 Screenshot" width="80%">
+  <img src="./images/ip-name-enter.png" alt="Step 2 Screenshot" width="50%">
 </div>
 <br>
 
 * **步驟三：** 跳出輸入密碼畫面時，兩臺電腦的密碼皆為 **清大統編**。可以勾選 **Remember me** 就不用重複輸入，然後點擊 **OK**。
 <br>
 <div align="center">
-  <img src="./images/enter-credentials.png" alt="Step 3 Screenshot" width="80%">
+  <img src="./images/enter-credentials.png" alt="Step 3 Screenshot" width="50%">
 </div>
 <br>
 
 * **步驟四：** 會跳出 Warning 問你是否真的要遠端遙控此電腦，勾選左下角的 **"Don't ask me again for connections to this computer"** 後按下 **Yes/OK** 即可連線。
 <br>
 <div align="center">
-  <img src="./images/despite-certificate-error.png" alt="Step 4 Screenshot" width="80%">
+  <img src="./images/despite-certificate-error.png" alt="Step 4 Screenshot" width="50%">
 </div>
 <br>
 
