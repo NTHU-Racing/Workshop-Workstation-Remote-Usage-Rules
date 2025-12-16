@@ -34,7 +34,7 @@
 * **步驟一：** 開啟 Remote Desktop Connection，點擊左下角 **Show Options**。
 <br>
 <div align="center">
-  <img src="./images/more-options.png" alt="Step 1 Screenshot" width="80%">
+  <img src="./images/more-options.png" alt="Step 1 Screenshot" width="50%">
 </div>
 <br>
 
