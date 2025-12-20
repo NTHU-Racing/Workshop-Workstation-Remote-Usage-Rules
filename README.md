@@ -64,7 +64,7 @@
 | 位置 | 一樓辦公桌上的電腦 | 模擬器電腦|
 | :--- | :--- | :--- |
 | **IP Address** | `192.168.1.69` | `192.168.1.73` |
-| **Username** | `ASUS` | `NTHURacing-Simulator` |
+| **Username** | `ASUS` | `ASUS` |
 
 ### 2. VPN 連接
 
